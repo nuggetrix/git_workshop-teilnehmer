@@ -1,0 +1,9 @@
+{
+ "name": "John Smith",
+ "geburtsjahr": "1990",   
+ "ort": "New York",
+ "skills": "Viele",
+ "hobbys": "Viel mehr",
+ "beschreibung": "Durschnittlicher Mensch", 
+ "sitzposition": "Irgendwo im Raum"
+}

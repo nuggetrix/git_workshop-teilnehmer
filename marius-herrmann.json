@@ -1,0 +1,9 @@
+{
+ "name": "Marius Herrmann",
+ "geburtsjahr": "1977",   
+ "ort": "Regensburg",
+ "skills": "Java, JSF, CDI",
+ "hobbys": "Lego, Zeichnen",
+ "beschreibung": "185cm gross, dunkle haare", 
+ "sitzposition": "vorne links"
+}

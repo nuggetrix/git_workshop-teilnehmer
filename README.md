@@ -1,29 +1,16 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Dies ist das Teilnehmerverzeichniss der GIT Schulung vom 7.3 und 8.3
 
-### What is this repository for? ###
+### Wofür ist dieses Repository ? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Lernen von GIT 
+* Lernen von Markdown
 
 ### How do I get set up? ###
+Just view with editor
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+
 
 ### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* All  Data Files should be JSON Format

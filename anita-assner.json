@@ -1,0 +1,9 @@
+{
+ "name": "Anita Aßner",
+ "geburtsjahr": "1980",   
+ "ort": "München",
+ "skills": "Java, Spring, Hibernate, JPA, CDI, JSF",
+ "hobbys": "Singen, Lesen, Schwimmen",
+ "beschreibung": "160 klein, braune mittellange Haare", 
+ "sitzposition": "mitte, mitte"
+}

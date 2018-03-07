@@ -6,6 +6,7 @@ Dies ist das Teilnehmerverzeichniss der GIT Schulung vom 7.3 und 8.3
 
 * Lernen von GIT 
 * Lernen von Markdown
+* Ausprobieren
 
 ### How do I get set up? ###
 Just view with editor
